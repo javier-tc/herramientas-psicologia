@@ -1,0 +1,1891 @@
+{
+    "tests": [
+        {
+            "name": "Inventario de Depresión de Beck (BDI-2)",
+            "description": "El Inventario de Depresión de Beck (BDI, BDI-2), creado por el psiquiatra, investigador y fundador de la Terapia Cognitiva, Aaron T. Beck, es un cuestionario autoadministrado que consta de 21 preguntas de respuesta múltiple.",
+            "typeAnswer": "Alternativas",
+            "questions": [
+                {
+                    "questionTitle": "Tristeza",
+                    "answers": [
+                        "No me siento triste.",
+                        "Me siento triste gran parte del tiempo.",
+                        "Me siento triste todo el tiempo.",
+                        "Me siento tan triste o soy tan infeliz que no puedo soportarlo."
+                    ]
+                },
+                {
+                    "questionTitle": "Pesimismo",
+                    "answers": [
+                        "No estoy desalentado respecto del mi futuro.",
+                        "Me siento más desalentado respecto de mi futuro que lo que solía estarlo.",
+                        "No espero que las cosas funcionen para mi.",
+                        "Siento que no hay esperanza para mi futuro y que sólo puede empeorar."
+                    ]
+                },
+                {
+                    "questionTitle": "Fracaso",
+                    "answers": [
+                        "No me siento como un fracasado.",
+                        "He fracasado más de lo que hubiera debido.",
+                        "Cuando miro hacia atrás, veo muchos fracasos.",
+                        "Siento que como persona soy un fracaso total."
+                    ]
+                },
+                {
+                    "questionTitle": "Pérdida de Placer",
+                    "answers": [
+                        "Obtengo tanto placer como siempre por las cosas de las que disfruto.",
+                        "No disfruto tanto de las cosas como solía hacerlo.",
+                        "Obtengo muy poco placer de las cosas que solía disfrutar.",
+                        "No puedo obtener ningún placer de las cosas de las que solía disfrutar."
+                    ]
+                },
+                {
+                    "questionTitle": "Sentimientos de Culpa",
+                    "answers": [
+                        "No me siento particularmente culpable.",
+                        "Me siento culpable respecto de varias cosas que he hecho o que debería haber hecho.",
+                        "Me siento bastante culpable la mayor parte del tiempo.",
+                        "Me siento culpable todo el tiempo."
+                    ]
+                },
+                {
+                    "questionTitle": "Sentimientos de Castigo",
+                    "answers": [
+                        "No siento que este siendo castigado",
+                        "Siento que tal vez pueda ser castigado.",
+                        "Espero ser castigado.",
+                        "Siento que estoy siendo castigado."
+                    ]
+                },
+                {
+                    "questionTitle": "Disconformidad con uno mismo",
+                    "answers": [
+                        "Siento acerca de mi lo mismo que siempre.",
+                        "He perdido la confianza en mí mismo.",
+                        "Estoy decepcionado conmigo mismo.",
+                        "No me gusto a mí mismo."
+                    ]
+                },
+                {
+                    "questionTitle": "Autocrítica",
+                    "answers": [
+                        "No me critico ni me culpo más de lo habitual",
+                        "Estoy más crítico conmigo mismo de lo que solía estarlo",
+                        "Me critico a mí mismo por todos mis errores",
+                        "Me culpo a mí mismo por todo lo malo que sucede."
+                    ]
+                },
+                {
+                    "questionTitle": "Pensamientos o Deseos Suicidas",
+                    "answers": [
+                        "No tengo ningún pensamiento de matarme.",
+                        "He tenido pensamientos de matarme, pero no lo haría",
+                        "Querría matarme",
+                        "Me mataría si tuviera la oportunidad de hacerlo."
+                    ]
+                },
+                {
+                    "questionTitle": "Llanto",
+                    "answers": [
+                        "No lloro más de lo que solía hacerlo.",
+                        "Lloro más de lo que solía hacerlo",
+                        "Lloro por cualquier pequeñez.",
+                        "Siento ganas de llorar pero no puedo."
+                    ]
+                },
+                {
+                    "questionTitle": "Agitación",
+                    "answers": [
+                        "No estoy más inquieto o tenso que lo habitual.",
+                        "Me siento más inquieto o tenso que lo habitual.",
+                        "Estoy tan inquieto o agitado que me es difícil quedarme quieto.",
+                        "Estoy tan inquieto o agitado que tengo que estar siempre en movimiento o haciendo algo."
+                    ]
+                },
+                {
+                    "questionTitle": "Pérdida de Interés",
+                    "answers": [
+                        "No he perdido el interés en otras actividades o personas.",
+                        "Estoy menos interesado que antes en otras personas o cosas.",
+                        "He perdido casi todo el interés en otras personas o cosas.",
+                        "Me es difícil interesarme por algo."
+                    ]
+                },
+                {
+                    "questionTitle": "Indecisión",
+                    "answers": [
+                        "Tomo mis propias decisiones tan bien como siempre.",
+                        "Me resulta más difícil que de costumbre tomar decisiones.",
+                        "Encuentro mucha más dificultad que antes para tomar decisiones.",
+                        "Tengo problemas para tomar cualquier decisión."
+                    ]
+                },
+                {
+                    "questionTitle": "Desvalorización",
+                    "answers": [
+                        "No siento que yo no sea valioso",
+                        "No me considero a mí mismo tan valioso y útil como solía considerarme",
+                        "Me siento menos valioso cuando me comparo con otros.",
+                        "Siento que no valgo nada."
+                    ]
+                },
+                {
+                    "questionTitle": "Pérdida de Energía",
+                    "answers": [
+                        "Tengo tanta energía como siempre.",
+                        "Tengo menos energía que la que solía tener.",
+                        "No tengo suficiente energía para hacer demasiado.",
+                        "No tengo energía suficiente para hacer nada."
+                    ]
+                },
+                {
+                    "questionTitle": "Cambios en los Hábitos de Sueño",
+                    "answers": [
+                        "No he experimentado ningún cambio en mis hábitos de sueño.",
+                        "Duermo un poco más que lo habitual.",
+                        "Duermo un poco menos que lo habitual.",
+                        "Duermo mucho más que lo habitual.",
+                        "Duermo mucho menos que lo habitual.",
+                        "Duermo la mayor parte del día.",
+                        "Me despierto 1-2 horas más temprano y no puedo volver a dormirme."
+                    ]
+                },
+                {
+                    "questionTitle": "Irritabilidad",
+                    "answers": [
+                        "No estoy tan irritable que lo habitual.",
+                        "Estoy más irritable que lo habitual.",
+                        "Estoy mucho más irritable que lo habitual.",
+                        "Estoy irritable todo el tiempo."
+                    ]
+                },
+                {
+                    "questionTitle": "Cambios en el Apetito",
+                    "answers": [
+                        "No he experimentado ningún cambio en mi apetito.",
+                        "Mi apetito es un poco menor que lo habitual.",
+                        "Mi apetito es un poco mayor que lo habitual.",
+                        "Mi apetito es mucho menor que antes.",
+                        "Mi apetito es mucho mayor que lo habitual.",
+                        "No tengo apetito en absoluto.",
+                        "Quiero comer todo el día."
+                    ]
+                },
+                {
+                    "questionTitle": "Dificultad de Concentración",
+                    "answers": [
+                        "Puedo concentrarme tan bien como siempre.",
+                        "No puedo concentrarme tan bien como habitualmente.",
+                        "Me es difícil mantener la mente en algo por mucho tiempo.",
+                        "Encuentro que no puedo concentrarme en nada."
+                    ]
+                },
+                {
+                    "questionTitle": "Cansancio o Fatiga",
+                    "answers": [
+                        "No estoy más cansado o fatigado que lo habitual.",
+                        "Me fatigo o me canso más fácilmente que lo habitual.",
+                        "Estoy demasiado fatigado o cansado para hacer muchas de las cosas que solía hacer.",
+                        "Estoy demasiado fatigado o cansado para hacer la mayoría de las cosas que solía hacer."
+                    ]
+                },
+                {
+                    "questionTitle": "Pérdida de Interés en el Sexo",
+                    "answers": [
+                        "No he notado ningún cambio reciente en mi interés por el sexo.",
+                        "Estoy menos interesado en el sexo de lo que solía estarlo.",
+                        "Estoy mucho menos interesado en el sexo.",
+                        "He perdido completamente el interés en el sexo."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "16PF (Sixteen Personality Factor Questionnaire)",
+            "description": "Los 16 factores de personalidad, medidos por el cuestionario 16PF, se obtuvieron mediante análisis factorial por el psicólogo Raymond Cattell en el año 2001. Fue creado con el fin de evaluar la personalidad típica, no para diagnosticar trastornos ni para analizar una psicopatología.",
+            "typeAnswer": "Alternativas",
+            "questions": [
+                {
+                    "questionTitle": "Dedico parte de mi tiempo a ayudar a los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Suelo tomar la iniciativa.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Intento perdonar y olvidar los errores.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Intento pasar desapercibido.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No puedo hacer las tareas si no estoy acompañado.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy una persona confiada.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me desanimo con facilidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "A menudo me siento incómodo cuando estoy rodeado de gente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gusta cómo soy.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Siempre tengo una palabra amable para todo el mundo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me cuesta decir que 'no'.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Creo que el arte es importante.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta divagar y perderme en mis pensamientos.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Prefiero que sean otros los que tomen la iniciativa.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me importa hablar de mis cosas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Siempre tengo palabras de aliento para los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me cuesta entablar conversación con otras personas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Valoro mucho mi privacidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Siempre voy a contracorriente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Es difícil llegar a conocerme.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Prefiero que otros tomen las decisiones importantes.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy consciente de que no soy una persona especial.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Creo que existe una única religión verdadera.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me enfado fácilmente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Los contratiempos me desaniman profundamente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy exigente en mi trabajo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No soy muy hablador.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Disfruto con el bullicio y la multitud.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Siempre sopeso los pros y los contras.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy impredecible.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me cuesta encontrar temas de conversación al hablar con desconocidos.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me importa comer solo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "La gente está a gusto conmigo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me enfado con facilidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "A menudo me siento angustiado.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta estar al mando.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me siento a gusto en compañía de otras personas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Siempre soy el alma de la fiesta.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No dejo que me afecten las críticas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "La apariencia de alguien dice mucho de su personalidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No suelo estar triste.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Disfruto siendo parte de un grupo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me encanta soñar despierto.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No confío en la gente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me preocupo por todo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Guardo mis pensamientos para mí mismo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Respeto la jerarquía, aunque no esté de acuerdo con sus decisiones.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Hago cosas fuera de lo común.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me salto las palabras difíciles al leer.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me siento bien conmigo mismo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Asumo el mando.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No paro hasta que está todo perfecto.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Creo que, en general, la gente es de fiar.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Puedo juzgar a los demás con facilidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente in desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No suelo ponerme nervioso.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Disfruto del silencio.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No escondo mis sentimientos.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Prefiero la variedad a la rutina.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me preocupa hacer las cosas mal.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Nunca cuestiono las cosas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Intento no pensar en las desgracias ajenas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Trabajo mejor solo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me irrito con facilidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Confío en lo que dice la gente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Respeto mi turno en la cola.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me encantan las flores.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Acostumbro a analizar todas las cosas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me cuesta mucho perdonar una ofensa.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me preocupo por las cosas que no se pueden cambiar.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Dejo mis cosas en cualquier sitio.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Percibo las emociones de los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me dejo llevar.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gustan los actos multitudinarios.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Valoro las opiniones de los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Actúo un poco a lo loco.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me molesta la gente desordenada.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Leo mucho.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Intento cumplir las normas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy una persona fantasiosa.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Digo palabrotas cuando es necesario.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gusta que me lleven la contraria.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Siempre digo lo que pienso.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me hago daño fácilmente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Pienso las cosas antes de actuar.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta dedicar tiempo para mí solo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me importa ser el centro de atención.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Rara vez me quedo embobado pensando en algo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gustan las novelas de ficción.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "La gente siempre esconde sus verdaderas intenciones.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me interesan las ideas abstractas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me desanimo con facilidad ante la adversidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Digo lo que pienso.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me importa hablar de mis cosas íntimas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gustan las películas de acción.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gusta que me digan lo que tengo que hacer.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta que las cosas se hagan bien.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me siento intimidado fácilmente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente inusuales en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Siempre soy el último en reírse de los chistes.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Disfruto discutiendo sobre películas o libros con otras personas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me molesto con facilidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No utilizo palabras raras o inusuales.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me molesta la música a todo volumen.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me desanimo fácilmente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta que la gente se conozca.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Acabo mis tareas enseguida.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Prefiero estar solo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me meto donde no me llaman.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me salto las normas si hace falta.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy capaz tomar medidas drásticas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me encantan las fiestas multitudinarias.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gusta la poesía.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Creo que, en el fondo, todo el mundo es bueno.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Tengo mi habitación desordenada.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No suelo soñar despierto.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Hago propuestas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Replico a mis superiores cuando no estoy conforme con sus decisiones.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me recupero con facilidad de los contratiempos.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Se me da bien animar a la gente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy un libro abierto para los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "A veces no soy consciente de cómo reacciono.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Mis amigos piensan que soy una persona divertida.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta pensar en nuevas formas de hacer las cosas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me molesta que haya un poco de desorden.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gusta el ballet.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Suelo comenzar las conversaciones.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "A menudo siento tristeza.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Las normas están para cumplirse.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Rebato los argumentos de los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No estoy interesado en discusiones teóricas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Persigo la tranquilidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Tengo frecuentes cambios de humor.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Aprendo con facilidad.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Rara vez busco un significado más profundo en las cosas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta la lectura.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy un bromista.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Intento evitar a las personas complicadas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gusta hablar de mí.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Tengo facilidad para hacer nuevos amigos.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me considero una persona normal.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta que las cosas estén ordenadas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me gustan las discusiones filosóficas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me molesta cuando los demás se equivocan.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Lloro en las películas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me interesan los problemas de los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "En el fondo, las personas son malas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Conozco maneras de eludir las normas.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No suelo bromear.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta discutir sobre temas profundos.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Dejo a un lado las tareas poco gratificantes.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Reflexiono sobre los errores del pasado.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "En las fiestas, hablo con mucha gente, incluso con personas que no conozco.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Oculto mis sentimientos a los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me intereso por la vida de los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Desconfío de la gente.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Me gusta trabajar en equipo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Soy poco hablador.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Sigo las normas al pie de la letra.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "No me importa hablar de mis sentimientos con los demás.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Todo el mundo oculta algo.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                },
+                {
+                    "questionTitle": "Tomo decisiones poco convencionales.",
+                    "answers": [
+                        "Totalmente en desacuerdo",
+                        "Parcialmente en desacuerdo",
+                        "Neutral, no estoy seguro.",
+                        "Parcialmente de acuerdo",
+                        "Totalmente de acuerdo"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget. Integer enim neque volutpat ac tincidunt vitae semper quis. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa.Ultricies lacus sed turpis tincidunt. Ornare massa eget egestas purus. Volutpat consequat mauris nunc congue nisi vitae suscipit. Ut sem nulla pharetra diam sit amet nisl. Pellentesque elit ullamcorper dignissim cras tincidunt.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        },
+        {
+            "name": "Otro nombre de test",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed viverra ipsum nunc.",
+            "typeAnswer": "Alternativas",
+            "questions": []
+        }
+    ]
+}

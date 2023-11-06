@@ -1,0 +1,38 @@
+nav {
+    background-color: #e8e5e8;
+    /* Fondo de la barra de navegación */
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    /* Sombra suave */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content:flex-start;
+}
+
+li {
+    margin-right: 15px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: (178, 208, 215);
+    border-radius: 5px;
+    color: #000000;
+    /* Color del texto en los enlaces */
+    transition: color;
+    /* Transición suave del color al pasar el mouse */
+}
+
+a:hover {
+    color: #fff;
+    background-color: #4b024b;
+    /* Color del texto al pasar el mouse */
+}

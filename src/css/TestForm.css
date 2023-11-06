@@ -1,0 +1,52 @@
+.testform-title {
+    font-size: 24px;
+    color: #202020;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.testform-container {
+    background-color: #e8e8e8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    /* Ajusta el valor para redondear los bordes */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 900px;
+    /* Ajusta el ancho máximo según tus necesidades */
+}
+
+.question-container {
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 90%;
+}
+
+.question-title {
+    font-size: 18px;
+    color: #1a1a1a;
+}
+
+.answer-container {
+    margin-top: 10px;
+}
+
+/* Estilo de los botones */
+.submit-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}
