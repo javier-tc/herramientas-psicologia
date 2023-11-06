@@ -1,16 +1,16 @@
-import testList from './testsList.json';
+import testList from './testList.json';
 import { useNavigate } from 'react-router-dom';
 import '../css/TestList.css';
 
 
-function TestsList() {
+function TestList() {
     const navigate = useNavigate();
 
     const navigateToTestForm = (testName) => {
-        navigate(`/tests/${testName}`);
+        navigate(`/test/${testName}`);
     };
 
-    const testElements = testList.tests.map((test, index) => (
+    const testElements = testList.test.map((test, index) => (
         <div className='test' key={index}>
             <h3>{test.name}</h3>
             <div className='test-description'>
@@ -26,4 +26,4 @@ function TestsList() {
         </div>
     )
 }
-export default TestsList;
+export default TestList;

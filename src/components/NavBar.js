@@ -10,7 +10,7 @@ function NavigationBar() {
                     <Link to='/'>Inicio</Link>
                 </li>
                 <li>
-                    <Link to='/tests'>Tests</Link>
+                    <Link to='/test'>Test</Link>
                 </li>
             </ul>
         </nav>

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import testList from './testsList.json';
+import testList from './testList.json';
 import NavigationBar from './NavBar';
 import '../css/TestForm.css';
 
@@ -8,7 +8,7 @@ function TestForm() {
 	//obtiene el tipo de respuesta y las preguntas con sus alternativas
 	const { testName } = useParams();
 	function getTest(testName) {
-		const test = testList.tests.find((test) => test.name === testName);
+		const test = testList.test.find((test) => test.name === testName);
 		if (test) {
 			//console.log(test.typeAnswer, test.questions);
 			return [test.typeAnswer, test.questions];

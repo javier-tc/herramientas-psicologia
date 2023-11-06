@@ -1,16 +1,16 @@
 import NavigationBar from "./NavBar";
-import TestsList from "./TestsList";
+import TestList from "./TestList";
 import '../css/TestPage.css';
 
-function TestsPage() {
+function TestPage() {
     return (
         <div className="page-container">
             <NavigationBar />
             <div className="testpage-body">
-                <h1>Tests</h1>
-                <TestsList />
+                <h1>Test</h1>
+                <TestList />
             </div>
         </div>
     );
 };
-export default TestsPage;
+export default TestPage;

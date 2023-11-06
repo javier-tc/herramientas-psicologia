@@ -21,18 +21,16 @@ li {
 }
 
 a {
+    font-size: 25px;
     text-decoration: none;
     padding: 10px 40px;
     background-color: (178, 208, 215);
     border-radius: 5px;
     color: #000000;
-    /* Color del texto en los enlaces */
     transition: color;
-    /* Transición suave del color al pasar el mouse */
 }
 
 a:hover {
     color: #fff;
-    background-color: #4b024b;
-    /* Color del texto al pasar el mouse */
+    background-color: #02124b;
 }

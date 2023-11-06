@@ -1,5 +1,5 @@
 {
-    "tests": [
+    "test": [
         {
             "name": "Inventario de Depresión de Beck (BDI-2)",
             "description": "El Inventario de Depresión de Beck (BDI, BDI-2), creado por el psiquiatra, investigador y fundador de la Terapia Cognitiva, Aaron T. Beck, es un cuestionario autoadministrado que consta de 21 preguntas de respuesta múltiple.",
