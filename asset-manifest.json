@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/herramientas-psicologia/static/css/main.246be2ef.css",
+    "main.js": "/herramientas-psicologia/static/js/main.02077db8.js",
+    "index.html": "/herramientas-psicologia/index.html",
+    "main.246be2ef.css.map": "/herramientas-psicologia/static/css/main.246be2ef.css.map",
+    "main.02077db8.js.map": "/herramientas-psicologia/static/js/main.02077db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246be2ef.css",
+    "static/js/main.02077db8.js"
+  ]
+}
