@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import testList from './testList.json';
 import NavigationBar from './NavBar';
@@ -31,6 +31,10 @@ function TestForm() {
 	const handleSubmit = () => {
 		console.log('Respuestas:', answers);
 	};
+
+	useEffect(()=>{
+		window.scrollTo(0, 0);
+	});
 
 	return (
 		<div className="page-container">

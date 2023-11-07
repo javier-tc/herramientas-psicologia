@@ -1,10 +1,9 @@
 nav {
     background-color: #e8e5e8;
-    /* Fondo de la barra de navegación */
     padding: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     width: 100%;
-    /* Sombra suave */
+    margin-right: 12px;
 }
 
 ul {
@@ -12,7 +11,8 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content:flex-start;
+    justify-content: flex-start;
+    align-items: center; /* Añade esto para centrar verticalmente los elementos */
 }
 
 li {
@@ -21,10 +21,9 @@ li {
 }
 
 a {
-    font-size: 25px;
+    font-size: 20px;
     text-decoration: none;
-    padding: 10px 40px;
-    background-color: (178, 208, 215);
+    padding: 10px 30px;
     border-radius: 5px;
     color: #000000;
     transition: color;
